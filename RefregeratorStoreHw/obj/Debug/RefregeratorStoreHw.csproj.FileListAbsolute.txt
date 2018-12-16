@@ -1,0 +1,6 @@
+C:\Users\chert\source\repos\RefregeratorStoreHw\RefregeratorStoreHw\bin\Debug\RefregeratorStoreHw.exe.config
+C:\Users\chert\source\repos\RefregeratorStoreHw\RefregeratorStoreHw\bin\Debug\RefregeratorStoreHw.exe
+C:\Users\chert\source\repos\RefregeratorStoreHw\RefregeratorStoreHw\bin\Debug\RefregeratorStoreHw.pdb
+C:\Users\chert\source\repos\RefregeratorStoreHw\RefregeratorStoreHw\obj\Debug\RefregeratorStoreHw.csproj.CoreCompileInputs.cache
+C:\Users\chert\source\repos\RefregeratorStoreHw\RefregeratorStoreHw\obj\Debug\RefregeratorStoreHw.exe
+C:\Users\chert\source\repos\RefregeratorStoreHw\RefregeratorStoreHw\obj\Debug\RefregeratorStoreHw.pdb
